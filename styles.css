@@ -1,0 +1,28 @@
+/* --- All Pages --- */
+
+:root
+{
+    /* Dark to Light gradient from --cg-01 to --cg-10 */
+    --cg-01: rgb(22, 39, 48);
+    --cg-02: rgb(25, 45, 56);
+    --cg-03: rgb(29, 52, 64);
+    --cg-04: rgb(33, 59, 72);
+    --cg-05: rgb(36, 65, 81);
+    --cg-06: rgb(40, 72, 89);
+    --cg-07: rgb(44, 79, 98);
+    --cg-08: rgb(47, 86, 107);
+    --cg-09: rgb(51, 94, 116);
+    --cg-10: rgb(55, 101, 125);
+    --cg-testWh: rgb(255, 255, 255);
+    --cg-testGr05: rgb(213, 213, 213);
+    --cg-testGr04: rgb(170, 170, 170);
+    --cg-testGr03: rgb(128, 128, 128);
+    --cg-testGr02: rgb(85, 85, 85);
+    --cg-testGr01: rgb(43, 43, 43);
+    --cg-testBl: rgb(0, 0, 0);
+}
+    
+body 
+{
+    background-color: var(--cg-testBl);
+}
