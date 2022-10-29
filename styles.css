@@ -24,5 +24,13 @@
     
 body 
 {
-    background-color: var(--cg-testBl);
+    background-color: var(--cg-testWh);
+}
+
+/* Div classes */
+
+.Brief_bar
+{
+    border: 1px solid black;
+    width: 320px;
 }
