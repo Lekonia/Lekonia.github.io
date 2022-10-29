@@ -31,6 +31,21 @@ body
 
 .Brief_bar
 {
+    position: relative;
     border: 1px solid black;
     width: 320px;
+    color: white;
+}
+
+img
+{
+    width: 320px;
+}
+
+.bottom_left
+{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font: white;
 }
